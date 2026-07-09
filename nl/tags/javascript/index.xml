@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JavaScript on Wouter Brunenberg</title><link>https://brunenberg.github.io/nl/tags/javascript/</link><description>Recent content in JavaScript on Wouter Brunenberg</description><generator>Hugo</generator><language>nl-nl</language><lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/nl/tags/javascript/index.xml" rel="self" type="application/rss+xml"/><item><title>birdsandbe.es Dagelijkse Puzzel</title><link>https://brunenberg.github.io/nl/projects/birdsandbees/</link><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/nl/projects/birdsandbees/</guid><description>&lt;p&gt;&lt;a href="https://birdsandbe.es"&gt;Speel het spel op birdsandbe.es!&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;Dit is een dagelijks puzzelspel dat ik heb gemaakt omdat ik zulke spellen al in mijn dagelijkse routine had (Wordle, enclose.horse, dagelijkse LinkedIn-spellen). Het idee ontstond toen ik aan het eten was en om de een of andere reden bedacht hoe de voorwerpen op tafel geplaatst zouden moeten worden zodat licht/lasers van opzij zo veel mogelijk oppervlak zouden bedekken. Ik heb het idee meteen opgeschreven en de dag erna meteen aan de slag gegaan. In ongeveer 2 weken, waarbij ik er steeds aan werkte wanneer ik daar zin in had, had ik een afgerond product, een puzzelgenerator en een algoritme waarmee ik snel de optimale oplossing(en) kon vinden voor elke puzzel die ik het gaf.&lt;/p&gt;</description></item><item><title>Quote Normalizer Browser Extension</title><link>https://brunenberg.github.io/nl/projects/quote-normalizer-browser-extension/</link><pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/nl/projects/quote-normalizer-browser-extension/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;This is a project I made for fun, because I thought it would be nice to always have the same kind of quotes on websites. I could not find a solution that offered that service, so I made it myself in a few hours. I had never created a browser extension before this, so I was excited to try it.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/quote-normalizer/"&gt;Install link for Firefox&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="technologies-used-"&gt;Technologies Used 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;HTML/CSS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="showcase-"&gt;Showcase 📸&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/quote_normalizer_example.gif" alt="Example of the application in use"&gt;&lt;/p&gt;</description></item><item><title>Image Hunt Challenge</title><link>https://brunenberg.github.io/nl/projects/image-hunt/</link><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/nl/projects/image-hunt/</guid><description>&lt;h2 id="overzicht-"&gt;Overzicht 🗺️&lt;/h2&gt;
+&lt;p&gt;Dit was een opdracht voor het vak &amp;ldquo;Cloud Services&amp;rdquo;. Het doel was een API‑first microservices backend te maken voor een image‑challenge applicatie. In deze applicatie start een beheerder een challenge op basis van een afbeelding van een locatie; deelnemers moeten een zo gelijk mogelijke foto maken om een hoge score te behalen.&lt;/p&gt;
+&lt;h2 id="gebruikte-technologieën-"&gt;Gebruikte technologieën 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Node.js + JavaScript&lt;/li&gt;
+&lt;li&gt;Express (HTTP API)&lt;/li&gt;
+&lt;li&gt;MongoDB + Mongoose (dataopslag)&lt;/li&gt;
+&lt;li&gt;RabbitMQ (message bus)&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Traefik&lt;/li&gt;
+&lt;li&gt;Imagga API&lt;/li&gt;
+&lt;li&gt;Postman&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="showcase-"&gt;Showcase 📸&lt;/h2&gt;
+&lt;h4 id="docker-container"&gt;Docker container&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/image_hunt_docker_container.png" alt="Docker images"&gt;&lt;/p&gt;</description></item></channel></rss>

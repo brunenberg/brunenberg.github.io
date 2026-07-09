@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Console App on Wouter Brunenberg</title><link>https://brunenberg.github.io/categories/console-app/</link><description>Recent content in Console App on Wouter Brunenberg</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/categories/console-app/index.xml" rel="self" type="application/rss+xml"/><item><title>Temple of Doom</title><link>https://brunenberg.github.io/projects/temple-of-doom/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/projects/temple-of-doom/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;&amp;lsquo;Temple of Doom&amp;rsquo; is a console application developed using the .NET MVC framework. The goal of this assignment was to practice a lot of different design patterns. The front consisted of a console with different characters and colours, depending on the type of object and if it had a colour property assigned to it (in the case of a key or coloured door for example).&lt;/p&gt;
+&lt;h2 id="technologies-used-"&gt;Technologies Used 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;C#&lt;/li&gt;
+&lt;li&gt;.NET Console App&lt;/li&gt;
+&lt;li&gt;Design Patterns
+&lt;ul&gt;
+&lt;li&gt;MVC&lt;/li&gt;
+&lt;li&gt;Factory&lt;/li&gt;
+&lt;li&gt;Observer&lt;/li&gt;
+&lt;li&gt;Strategy&lt;/li&gt;
+&lt;li&gt;Decorator&lt;/li&gt;
+&lt;li&gt;Adapter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="challenges-and-solutions-"&gt;Challenges and Solutions 🧗🏻&lt;/h2&gt;
+&lt;p&gt;One of the biggest challenges was researching all the different kind of design patterns and assessing for which purpose each pattern had to be used, without knowing a lot about them.&lt;/p&gt;</description></item><item><title>Reversi</title><link>https://brunenberg.github.io/projects/reversi/</link><pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/projects/reversi/</guid><description>&lt;h2 id="overzicht-"&gt;Overzicht 🗺️&lt;/h2&gt;
+&lt;p&gt;Reversi is een consoleapplicatie die ik bouwde voor een schoolopdracht. Het doel was een goed begrip te krijgen van OOP (Object‑Oriented Programming). Ik moest het bordspel ‘Reversi’ nabouwen. Voordat je start, beantwoord je een paar vragen over de spelconfiguratie. Daarna speel je een normale pot &lt;a href="https://nl.wikipedia.org/wiki/Reversi"&gt;Reversi&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="technologieën-"&gt;Technologieën 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;Eclipse&lt;/li&gt;
+&lt;li&gt;OOP (Object‑Oriented Programming)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="uitdagingen-en-oplossingen-"&gt;Uitdagingen en oplossingen 🧗🏻&lt;/h2&gt;
+&lt;p&gt;In het begin was OOP lastig te doorgronden. Ik snapte dat ‘dingen’ als objecten door klassen worden voorgesteld, maar ook abstracte zaken zoals ‘Game’ (één speelronde) moesten een plek krijgen — dat vond ik verwarrend. Tijdens het bouwen viel het steeds beter op zijn plek en ik was trots op het eindresultaat.&lt;/p&gt;</description></item></channel></rss>

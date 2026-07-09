@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CSS on Wouter Brunenberg</title><link>https://brunenberg.github.io/nl/tags/css/</link><description>Recent content in CSS on Wouter Brunenberg</description><generator>Hugo</generator><language>nl-nl</language><lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/nl/tags/css/index.xml" rel="self" type="application/rss+xml"/><item><title>birdsandbe.es Dagelijkse Puzzel</title><link>https://brunenberg.github.io/nl/projects/birdsandbees/</link><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/nl/projects/birdsandbees/</guid><description>&lt;p&gt;&lt;a href="https://birdsandbe.es"&gt;Speel het spel op birdsandbe.es!&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;Dit is een dagelijks puzzelspel dat ik heb gemaakt omdat ik zulke spellen al in mijn dagelijkse routine had (Wordle, enclose.horse, dagelijkse LinkedIn-spellen). Het idee ontstond toen ik aan het eten was en om de een of andere reden bedacht hoe de voorwerpen op tafel geplaatst zouden moeten worden zodat licht/lasers van opzij zo veel mogelijk oppervlak zouden bedekken. Ik heb het idee meteen opgeschreven en de dag erna meteen aan de slag gegaan. In ongeveer 2 weken, waarbij ik er steeds aan werkte wanneer ik daar zin in had, had ik een afgerond product, een puzzelgenerator en een algoritme waarmee ik snel de optimale oplossing(en) kon vinden voor elke puzzel die ik het gaf.&lt;/p&gt;</description></item><item><title>Quote Normalizer Browser Extension</title><link>https://brunenberg.github.io/nl/projects/quote-normalizer-browser-extension/</link><pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/nl/projects/quote-normalizer-browser-extension/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;This is a project I made for fun, because I thought it would be nice to always have the same kind of quotes on websites. I could not find a solution that offered that service, so I made it myself in a few hours. I had never created a browser extension before this, so I was excited to try it.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/quote-normalizer/"&gt;Install link for Firefox&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="technologies-used-"&gt;Technologies Used 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;HTML/CSS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="showcase-"&gt;Showcase 📸&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/quote_normalizer_example.gif" alt="Example of the application in use"&gt;&lt;/p&gt;</description></item><item><title>Sesamstraat‑website</title><link>https://brunenberg.github.io/nl/projects/sesame-street-website/</link><pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/nl/projects/sesame-street-website/</guid><description>&lt;h2 id="overzicht-"&gt;Overzicht 🗺️&lt;/h2&gt;
+&lt;p&gt;Voor dit project moest ik een website maken rond een zelfgekozen thema. Ik koos voor Sesamstraat: de stijl spreekt me aan en het is lekker nostalgisch. De site moest aan een aantal eisen voldoen: vijf pagina’s met elk een eigen lay‑out, responsive met media queries en een webformulier (buiten de vijf pagina’s om).&lt;/p&gt;
+&lt;h2 id="technologieën-"&gt;Technologieën 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="uitdagingen-en-oplossingen-"&gt;Uitdagingen en oplossingen 🧗🏻&lt;/h2&gt;
+&lt;p&gt;CSS onder de knie krijgen vond ik best lastig. De basis snapte ik wel, maar ik kende lang niet alle properties en vooral flexbox was verwarrend. Align‑items, justify‑items, align‑content en justify‑content haalde ik vaak door elkaar. Daardoor kostte het project meer tijd dan gedacht, maar ik was wel ruim voor de deadline klaar.&lt;/p&gt;</description></item></channel></rss>

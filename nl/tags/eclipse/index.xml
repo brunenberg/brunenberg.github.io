@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eclipse on Wouter Brunenberg</title><link>https://brunenberg.github.io/nl/tags/eclipse/</link><description>Recent content in Eclipse on Wouter Brunenberg</description><generator>Hugo</generator><language>nl-nl</language><lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/nl/tags/eclipse/index.xml" rel="self" type="application/rss+xml"/><item><title>Tekenapplicatie</title><link>https://brunenberg.github.io/nl/projects/drawing-app/</link><pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/nl/projects/drawing-app/</guid><description>&lt;h2 id="overzicht-"&gt;Overzicht 🗺️&lt;/h2&gt;
+&lt;p&gt;Toen het schooljaar was afgelopen en ik wat tijd over had, ben ik begonnen aan een teken/bewerk‑app met JavaFX. Ik had die technologie net leren kennen en was benieuwd hoe ver ik ermee kon komen, ook al is het wat verouderd. Nadat ik de basisfuncties en tools (potlood, penseel, verfemmer en gum) had gebouwd, ben ik gestopt met dit project. Ik besloot dat het beter was om andere technologieën te gaan verkennen.&lt;/p&gt;</description></item><item><title>Pane Switcher</title><link>https://brunenberg.github.io/nl/projects/pane-switcher/</link><pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/nl/projects/pane-switcher/</guid><description>&lt;h2 id="overzicht-"&gt;Overzicht 🗺️&lt;/h2&gt;
+&lt;p&gt;&amp;lsquo;Pane Switcher&amp;rsquo; is een applicatie die ik maakte voor een programmeertoets op school. De opdracht was om binnen 90 minuten een voorbeeldapp na te bouwen. De app had een knop die, zodra je erop drukte, het uiterlijk van verschillende panelen aanpaste. Ik had het binnen de toetsduur af, maar heb het thuis verder aangescherpt voor een beter resultaat.&lt;/p&gt;
+&lt;h2 id="technologieën-"&gt;Technologieën 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;JavaFX&lt;/li&gt;
+&lt;li&gt;Eclipse&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="uitdagingen-en-oplossingen-"&gt;Uitdagingen en oplossingen 🧗🏻&lt;/h2&gt;
+&lt;p&gt;De grootste hobbel was het gebruik van een &lt;code&gt;StackPane&lt;/code&gt;, dat was nieuw voor mij. Tijdens de toets koos ik een omweg, maar later thuis merkte ik dat het eigenlijk veel eenvoudiger was dan gedacht.&lt;/p&gt;</description></item><item><title>Reversi</title><link>https://brunenberg.github.io/nl/projects/reversi/</link><pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/nl/projects/reversi/</guid><description>&lt;h2 id="overzicht-"&gt;Overzicht 🗺️&lt;/h2&gt;
+&lt;p&gt;Reversi is een consoleapplicatie die ik bouwde voor een schoolopdracht. Het doel was een goed begrip te krijgen van OOP (Object‑Oriented Programming). Ik moest het bordspel ‘Reversi’ nabouwen. Voordat je start, beantwoord je een paar vragen over de spelconfiguratie. Daarna speel je een normale pot &lt;a href="https://nl.wikipedia.org/wiki/Reversi"&gt;Reversi&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="technologieën-"&gt;Technologieën 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;Eclipse&lt;/li&gt;
+&lt;li&gt;OOP (Object‑Oriented Programming)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="uitdagingen-en-oplossingen-"&gt;Uitdagingen en oplossingen 🧗🏻&lt;/h2&gt;
+&lt;p&gt;In het begin was OOP lastig te doorgronden. Ik snapte dat ‘dingen’ als objecten door klassen worden voorgesteld, maar ook abstracte zaken zoals ‘Game’ (één speelronde) moesten een plek krijgen — dat vond ik verwarrend. Tijdens het bouwen viel het steeds beter op zijn plek en ik was trots op het eindresultaat.&lt;/p&gt;</description></item></channel></rss>

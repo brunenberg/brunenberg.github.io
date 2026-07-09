@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Firebase on Wouter Brunenberg</title><link>https://brunenberg.github.io/nl/tags/firebase/</link><description>Recent content in Firebase on Wouter Brunenberg</description><generator>Hugo</generator><language>nl-nl</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/nl/tags/firebase/index.xml" rel="self" type="application/rss+xml"/><item><title>Huishoudboekje Webapp</title><link>https://brunenberg.github.io/nl/projects/household-budget-web-app/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/nl/projects/household-budget-web-app/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;Dit was een duo opdracht voor het vak &amp;ldquo;Advanced Javascript&amp;rdquo;. Het doel was om een huishoudboekje applicatie te maken aan de hand van React en Firebase.&lt;/p&gt;
+&lt;h2 id="technologies-used-"&gt;Technologies Used 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;Firebase&lt;/li&gt;
+&lt;li&gt;Next.js&lt;/li&gt;
+&lt;li&gt;TypeScript&lt;/li&gt;
+&lt;li&gt;Tailwind + DaisyUI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="showcase-"&gt;Showcase 📸&lt;/h2&gt;
+&lt;h4 id="account-select-pagina"&gt;Account select pagina&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/household_budget_accounts.png" alt="Account select page"&gt;&lt;/p&gt;
+&lt;h4 id="startpagina"&gt;Startpagina&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/household_budget_home.png" alt="Home page"&gt;&lt;/p&gt;
+&lt;h4 id="transacties"&gt;Transacties&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/household_budget_transactions.png" alt="Transactions page"&gt;&lt;/p&gt;
+&lt;h4 id="analytics"&gt;Analytics&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/household_budget_analytics.png" alt="Analytics page"&gt;&lt;/p&gt;
+&lt;h4 id="categorieën"&gt;Categorieën&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/household_budget_categories.png" alt="Categories page"&gt;&lt;/p&gt;</description></item></channel></rss>

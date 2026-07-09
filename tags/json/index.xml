@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JSON on Wouter Brunenberg</title><link>https://brunenberg.github.io/tags/json/</link><description>Recent content in JSON on Wouter Brunenberg</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/tags/json/index.xml" rel="self" type="application/rss+xml"/><item><title>Pygame Galactic Gladiators</title><link>https://brunenberg.github.io/projects/pygame-galactic-gladiators/</link><pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/projects/pygame-galactic-gladiators/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;This was an assignment for the subject &amp;ldquo;Python&amp;rdquo;. The goal was to create a game with Python + Flask or Pygame. I had to create a board game with four special square types and six types of pieces with their own abilities. The game is similar to Stratego, you can&amp;rsquo;t see the value of the pieces of your opponent and the goal is to capture their flag.&lt;/p&gt;
+&lt;h2 id="technologies-used-"&gt;Technologies Used 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Pygame (UI)&lt;/li&gt;
+&lt;li&gt;JSON (saved games)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="showcase-"&gt;Showcase 📸&lt;/h2&gt;
+&lt;h4 id="start-new-game-or-load-unfinished-game"&gt;Start new game or load unfinished game&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/galactic_gladiators_saved_games.png" alt="Load games"&gt;&lt;/p&gt;</description></item></channel></rss>

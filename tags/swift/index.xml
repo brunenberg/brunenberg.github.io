@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Swift on Wouter Brunenberg</title><link>https://brunenberg.github.io/tags/swift/</link><description>Recent content in Swift on Wouter Brunenberg</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/tags/swift/index.xml" rel="self" type="application/rss+xml"/><item><title>iOS Cocktail App</title><link>https://brunenberg.github.io/projects/ios-cocktail-app/</link><pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/projects/ios-cocktail-app/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;This was an app I made with a duo partner for the subject &amp;ldquo;Mobile Development - iOS&amp;rdquo;. It features a library of cocktails and their recipes, these are retrieved via the &lt;a href="https://www.thecocktaildb.com/api.php"&gt;TheCocktailDB API&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="technologies-used-"&gt;Technologies Used 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Xcode&lt;/li&gt;
+&lt;li&gt;Swift&lt;/li&gt;
+&lt;li&gt;SwiftUI&lt;/li&gt;
+&lt;li&gt;UIKit&lt;/li&gt;
+&lt;li&gt;NSCache&lt;/li&gt;
+&lt;li&gt;TheCocktailDB API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="showcase-"&gt;Showcase 📸&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/ios_mixmasters_pages_spacing.png" alt="Screenshots of all pages of the app"&gt;&lt;/p&gt;</description></item></channel></rss>

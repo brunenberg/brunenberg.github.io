@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MVC on Wouter Brunenberg</title><link>https://brunenberg.github.io/tags/mvc/</link><description>Recent content in MVC on Wouter Brunenberg</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/tags/mvc/index.xml" rel="self" type="application/rss+xml"/><item><title>Temple of Doom</title><link>https://brunenberg.github.io/projects/temple-of-doom/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/projects/temple-of-doom/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;&amp;lsquo;Temple of Doom&amp;rsquo; is a console application developed using the .NET MVC framework. The goal of this assignment was to practice a lot of different design patterns. The front consisted of a console with different characters and colours, depending on the type of object and if it had a colour property assigned to it (in the case of a key or coloured door for example).&lt;/p&gt;
+&lt;h2 id="technologies-used-"&gt;Technologies Used 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;C#&lt;/li&gt;
+&lt;li&gt;.NET Console App&lt;/li&gt;
+&lt;li&gt;Design Patterns
+&lt;ul&gt;
+&lt;li&gt;MVC&lt;/li&gt;
+&lt;li&gt;Factory&lt;/li&gt;
+&lt;li&gt;Observer&lt;/li&gt;
+&lt;li&gt;Strategy&lt;/li&gt;
+&lt;li&gt;Decorator&lt;/li&gt;
+&lt;li&gt;Adapter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="challenges-and-solutions-"&gt;Challenges and Solutions 🧗🏻&lt;/h2&gt;
+&lt;p&gt;One of the biggest challenges was researching all the different kind of design patterns and assessing for which purpose each pattern had to be used, without knowing a lot about them.&lt;/p&gt;</description></item><item><title>Project Bumbo</title><link>https://brunenberg.github.io/projects/project-bumbo/</link><pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/projects/project-bumbo/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;&amp;lsquo;Project Bumbo&amp;rsquo; was a group project I participated in during my school days, where our team of five was tasked with solving a pressing issue for &amp;lsquo;Bumbo&amp;rsquo;, a fictional supermarket chain. The challenge at hand was the time-consuming and inefficient scheduling process that the store manager faced every week. This often resulted in employees working overtime and shifts where the store was either understaffed or overstaffed.&lt;/p&gt;
+&lt;h2 id="technologies-used-"&gt;Technologies Used 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;C#&lt;/li&gt;
+&lt;li&gt;ASP.NET&lt;/li&gt;
+&lt;li&gt;Entity Framework Core&lt;/li&gt;
+&lt;li&gt;Azure Hosting&lt;/li&gt;
+&lt;li&gt;MVC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="challenges-and-solutions-"&gt;Challenges and Solutions 🧗🏻&lt;/h2&gt;
+&lt;p&gt;Transitioning into the world of software frameworks was a significant step for me, as my previous framework experience was primarily with JavaFX, which is more of a library than a framework. Diving into ASP.NET presented a new set of challenges. Fortunately, the MVC architecture was a familiar concept, which helped me navigate through the learning process. Despite some initial difficulties, I dedicated myself to understandin the framework, and over time, I became proficient in its application.&lt;/p&gt;</description></item><item><title>Project Sagrada</title><link>https://brunenberg.github.io/projects/project-sagrada/</link><pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/projects/project-sagrada/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;&amp;lsquo;Project Sagrada&amp;rsquo; was a school project that marked my first significant collaboration, where I worked with a team of five to eight people (it increased because of issues in one of the other groups). This project introduced me to Git and GitHub. Our objective was to develop an online version of the board game &amp;ldquo;Sagrada&amp;rdquo; using JavaFX. We followed a detailed list of requirements to ensure the game was up to the standard.&lt;/p&gt;</description></item></channel></rss>

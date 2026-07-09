@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Backend on Wouter Brunenberg</title><link>https://brunenberg.github.io/categories/backend/</link><description>Recent content in Backend on Wouter Brunenberg</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/categories/backend/index.xml" rel="self" type="application/rss+xml"/><item><title>Image Hunt Challenge</title><link>https://brunenberg.github.io/projects/image-hunt/</link><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/projects/image-hunt/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;This was an assignment for the subject &amp;ldquo;Cloud Services&amp;rdquo;. The goal was to create an API-first microservices backend for an image-challenge application. In this application an admin would start a challenge based on an image of a certain location, participants would have to take an image as similar as possible to get a high score.&lt;/p&gt;
+&lt;h2 id="technologies-used-"&gt;Technologies Used 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Node.js + JavaScript&lt;/li&gt;
+&lt;li&gt;Express (HTTP API)&lt;/li&gt;
+&lt;li&gt;MongoDB + Mongoose (data storage)&lt;/li&gt;
+&lt;li&gt;RabbitMQ (message bus)&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Traefik&lt;/li&gt;
+&lt;li&gt;Imagga API&lt;/li&gt;
+&lt;li&gt;Postman&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="showcase-"&gt;Showcase 📸&lt;/h2&gt;
+&lt;h4 id="docker-container"&gt;Docker container&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/image_hunt_docker_container.png" alt="Docker images"&gt;&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Imagga API on Wouter Brunenberg</title><link>https://brunenberg.github.io/nl/tags/imagga-api/</link><description>Recent content in Imagga API on Wouter Brunenberg</description><generator>Hugo</generator><language>nl-nl</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/nl/tags/imagga-api/index.xml" rel="self" type="application/rss+xml"/><item><title>Image Hunt Challenge</title><link>https://brunenberg.github.io/nl/projects/image-hunt/</link><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/nl/projects/image-hunt/</guid><description>&lt;h2 id="overzicht-"&gt;Overzicht 🗺️&lt;/h2&gt;
+&lt;p&gt;Dit was een opdracht voor het vak &amp;ldquo;Cloud Services&amp;rdquo;. Het doel was een API‑first microservices backend te maken voor een image‑challenge applicatie. In deze applicatie start een beheerder een challenge op basis van een afbeelding van een locatie; deelnemers moeten een zo gelijk mogelijke foto maken om een hoge score te behalen.&lt;/p&gt;
+&lt;h2 id="gebruikte-technologieën-"&gt;Gebruikte technologieën 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Node.js + JavaScript&lt;/li&gt;
+&lt;li&gt;Express (HTTP API)&lt;/li&gt;
+&lt;li&gt;MongoDB + Mongoose (dataopslag)&lt;/li&gt;
+&lt;li&gt;RabbitMQ (message bus)&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Traefik&lt;/li&gt;
+&lt;li&gt;Imagga API&lt;/li&gt;
+&lt;li&gt;Postman&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="showcase-"&gt;Showcase 📸&lt;/h2&gt;
+&lt;h4 id="docker-container"&gt;Docker container&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/image_hunt_docker_container.png" alt="Docker images"&gt;&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TypeScript on Wouter Brunenberg</title><link>https://brunenberg.github.io/tags/typescript/</link><description>Recent content in TypeScript on Wouter Brunenberg</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/tags/typescript/index.xml" rel="self" type="application/rss+xml"/><item><title>Swimming Lesson Evaluation Tool</title><link>https://brunenberg.github.io/projects/swimming-evaluation-tool/</link><pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/projects/swimming-evaluation-tool/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;This was a group project for school that took place over the course of ~20 weeks, for which we had to create a solution that would fix several of their problems. The client was a swimming club that taught children to swim and get their swimming certificates. The instructors were using paper for keeping track of the swimmer&amp;rsquo;s progress, which proved to be a problem in an environment with a lot of water. Some of their other issues were that paper could get lost and it takes long to find the information they are looking for, parents/guardians had no way to see the progress of their kids and parents/guardians often didn&amp;rsquo;t speak Dutch, which made it hard to comminucate what the kids should work on.&lt;/p&gt;</description></item><item><title>Household Budget Web App</title><link>https://brunenberg.github.io/projects/household-budget-web-app/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/projects/household-budget-web-app/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;This is a duo assignment for the subject &amp;ldquo;Advanced Javascript&amp;rdquo;. The goal was to create a household budget app with React and Firebase.&lt;/p&gt;
+&lt;h2 id="technologies-used-"&gt;Technologies Used 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next.js&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;TypeScript&lt;/li&gt;
+&lt;li&gt;Firebase&lt;/li&gt;
+&lt;li&gt;Tailwind + DaisyUI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="showcase-"&gt;Showcase 📸&lt;/h2&gt;
+&lt;h4 id="account-select-page"&gt;Account select page&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/household_budget_accounts.png" alt="Account select page"&gt;&lt;/p&gt;
+&lt;h4 id="home-page"&gt;Home page&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/household_budget_home.png" alt="Home page"&gt;&lt;/p&gt;
+&lt;h4 id="transactions-page"&gt;Transactions page&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/household_budget_transactions.png" alt="Transactions page"&gt;&lt;/p&gt;
+&lt;h4 id="analytics-page"&gt;Analytics page&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/household_budget_analytics.png" alt="Analytics page"&gt;&lt;/p&gt;
+&lt;h4 id="categories-page"&gt;Categories page&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/household_budget_categories.png" alt="Categories page"&gt;&lt;/p&gt;</description></item></channel></rss>

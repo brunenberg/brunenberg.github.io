@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Browser Extension on Wouter Brunenberg</title><link>https://brunenberg.github.io/categories/browser-extension/</link><description>Recent content in Browser Extension on Wouter Brunenberg</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/categories/browser-extension/index.xml" rel="self" type="application/rss+xml"/><item><title>Quote Normalizer Browser Extension</title><link>https://brunenberg.github.io/projects/quote-normalizer-browser-extension/</link><pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/projects/quote-normalizer-browser-extension/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;This is a project I made for fun, because I thought it would be nice to always have the same kind of quotes on websites. I could not find a solution that offered that service, so I made it myself in a few hours. I had never created a browser extension before this, so I was excited to try it.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/quote-normalizer/"&gt;Install link for Firefox&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="technologies-used-"&gt;Technologies Used 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;HTML/CSS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="showcase-"&gt;Showcase 📸&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/quote_normalizer_example.gif" alt="Example of the application in use"&gt;&lt;/p&gt;</description></item></channel></rss>

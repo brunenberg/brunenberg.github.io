@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Android Studio on Wouter Brunenberg</title><link>https://brunenberg.github.io/tags/android-studio/</link><description>Recent content in Android Studio on Wouter Brunenberg</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/tags/android-studio/index.xml" rel="self" type="application/rss+xml"/><item><title>Android Cocktail App</title><link>https://brunenberg.github.io/projects/android-cocktail-app/</link><pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/projects/android-cocktail-app/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;This was an app I made with a duo partner for the subject &amp;ldquo;Mobile Development - Android&amp;rdquo;. It features a library of cocktails and their recipes, these are retrieved via the &lt;a href="https://www.thecocktaildb.com/api.php"&gt;TheCocktailDB API&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="technologies-used-"&gt;Technologies Used 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Android Studio&lt;/li&gt;
+&lt;li&gt;Kotlin&lt;/li&gt;
+&lt;li&gt;Jetpack Compose&lt;/li&gt;
+&lt;li&gt;Hilt&lt;/li&gt;
+&lt;li&gt;Ktor (API calls)&lt;/li&gt;
+&lt;li&gt;Coil (image loading)&lt;/li&gt;
+&lt;li&gt;Coroutines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="showcase-"&gt;Showcase 📸&lt;/h2&gt;
+&lt;h4 id="home-page"&gt;Home page&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/android_mixmasters_home.png" alt="Home page light mode"&gt;&lt;/p&gt;
+&lt;h4 id="details-page"&gt;Details page&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/android_mixmasters_details.png" alt="Details page light mode"&gt;&lt;/p&gt;
+&lt;h4 id="search-page"&gt;Search page&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/android_mixmasters_search.png" alt="Search page light mode"&gt;&lt;/p&gt;</description></item></channel></rss>

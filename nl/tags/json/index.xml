@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JSON on Wouter Brunenberg</title><link>https://brunenberg.github.io/nl/tags/json/</link><description>Recent content in JSON on Wouter Brunenberg</description><generator>Hugo</generator><language>nl-nl</language><lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/nl/tags/json/index.xml" rel="self" type="application/rss+xml"/><item><title>Pygame Galactic Gladiators</title><link>https://brunenberg.github.io/nl/projects/pygame-galactic-gladiators/</link><pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/nl/projects/pygame-galactic-gladiators/</guid><description>&lt;h2 id="overzicht-"&gt;Overzicht 🗺️&lt;/h2&gt;
+&lt;p&gt;Dit was een opdracht voor het vak &amp;ldquo;Python&amp;rdquo;. Het doel was een game te maken met Python + Flask of Pygame. Ik moest een bordspel maken met vier speciale vakjes en zes soorten speelstukken met elk eigen vaardigheden. Het spel lijkt op Stratego: je ziet de waarde van de stukken van je tegenstander niet en het doel is de vlag van de tegenstander te veroveren.&lt;/p&gt;
+&lt;h2 id="gebruikte-technologieën-"&gt;Gebruikte technologieën 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Pygame (UI)&lt;/li&gt;
+&lt;li&gt;JSON (saved games)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="showcase-"&gt;Showcase 📸&lt;/h2&gt;
+&lt;h4 id="nieuw-spel-starten-of-opgeslagen-spel-laden"&gt;Nieuw spel starten of opgeslagen spel laden&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/galactic_gladiators_saved_games.png" alt="Load games"&gt;&lt;/p&gt;</description></item></channel></rss>

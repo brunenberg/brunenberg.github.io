@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Android Studio on Wouter Brunenberg</title><link>https://brunenberg.github.io/nl/tags/android-studio/</link><description>Recent content in Android Studio on Wouter Brunenberg</description><generator>Hugo</generator><language>nl-nl</language><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/nl/tags/android-studio/index.xml" rel="self" type="application/rss+xml"/><item><title>Android Cocktail App</title><link>https://brunenberg.github.io/nl/projects/android-cocktail-app/</link><pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/nl/projects/android-cocktail-app/</guid><description>&lt;h2 id="overzicht-"&gt;Overzicht 🗺️&lt;/h2&gt;
+&lt;p&gt;Dit is een app die ik samen met een duo‑partner heb gemaakt voor het vak &amp;ldquo;Mobile Development - Android&amp;rdquo;. De app bevat een bibliotheek met cocktails en hun recepten; deze worden opgehaald via de &lt;a href="https://www.thecocktaildb.com/api.php"&gt;TheCocktailDB API&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="gebruikte-technologieën-"&gt;Gebruikte technologieën 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Android Studio&lt;/li&gt;
+&lt;li&gt;Kotlin&lt;/li&gt;
+&lt;li&gt;Jetpack Compose&lt;/li&gt;
+&lt;li&gt;Hilt&lt;/li&gt;
+&lt;li&gt;Ktor (API‑calls)&lt;/li&gt;
+&lt;li&gt;Coil (image loading)&lt;/li&gt;
+&lt;li&gt;Coroutines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="showcase-"&gt;Showcase 📸&lt;/h2&gt;
+&lt;h4 id="startpagina"&gt;Startpagina&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/android_mixmasters_home.png" alt="Home page light mode"&gt;&lt;/p&gt;
+&lt;h4 id="details"&gt;Details&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/android_mixmasters_details.png" alt="Details page light mode"&gt;&lt;/p&gt;
+&lt;h4 id="zoekpagina"&gt;Zoekpagina&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/android_mixmasters_search.png" alt="Search page light mode"&gt;&lt;/p&gt;
+&lt;h4 id="favorieten"&gt;Favorieten&lt;/h4&gt;
+&lt;p&gt;&lt;img src="https://brunenberg.github.io/images/projects/android_mixmasters_favorites.png" alt="Favorites page light mode"&gt;&lt;/p&gt;</description></item></channel></rss>

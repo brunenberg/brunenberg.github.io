@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>.NET on Wouter Brunenberg</title><link>https://brunenberg.github.io/tags/.net/</link><description>Recent content in .NET on Wouter Brunenberg</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://brunenberg.github.io/tags/.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Temple of Doom</title><link>https://brunenberg.github.io/projects/temple-of-doom/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://brunenberg.github.io/projects/temple-of-doom/</guid><description>&lt;h2 id="overview-"&gt;Overview 🗺️&lt;/h2&gt;
+&lt;p&gt;&amp;lsquo;Temple of Doom&amp;rsquo; is a console application developed using the .NET MVC framework. The goal of this assignment was to practice a lot of different design patterns. The front consisted of a console with different characters and colours, depending on the type of object and if it had a colour property assigned to it (in the case of a key or coloured door for example).&lt;/p&gt;
+&lt;h2 id="technologies-used-"&gt;Technologies Used 🛠️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;C#&lt;/li&gt;
+&lt;li&gt;.NET Console App&lt;/li&gt;
+&lt;li&gt;Design Patterns
+&lt;ul&gt;
+&lt;li&gt;MVC&lt;/li&gt;
+&lt;li&gt;Factory&lt;/li&gt;
+&lt;li&gt;Observer&lt;/li&gt;
+&lt;li&gt;Strategy&lt;/li&gt;
+&lt;li&gt;Decorator&lt;/li&gt;
+&lt;li&gt;Adapter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="challenges-and-solutions-"&gt;Challenges and Solutions 🧗🏻&lt;/h2&gt;
+&lt;p&gt;One of the biggest challenges was researching all the different kind of design patterns and assessing for which purpose each pattern had to be used, without knowing a lot about them.&lt;/p&gt;</description></item></channel></rss>
